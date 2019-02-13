@@ -1,7 +1,7 @@
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
 body, html {
   height: 100%;
-  color: #777;
+  color: rgb(34, 33, 33);
   line-height: 1.8;
 }
 
@@ -15,7 +15,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('/assets/images/coffee.jpg');
+  background-image: url('/assets/images/compcoffee.jpg');
   min-height: 100%;
 }
 
