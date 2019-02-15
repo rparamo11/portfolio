@@ -16,7 +16,7 @@ function onClick(element) {
           navbar.className = navbar.className.replace(" w3-card w3-animate-top w3-white", "");
       }
   }
-  
+
   // Used to toggle the menu on small screens when clicking on the menu button
   function toggleFunction() {
       var x = document.getElementById("navDemo");
